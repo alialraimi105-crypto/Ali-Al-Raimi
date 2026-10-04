@@ -1,0 +1,6 @@
+{
+  "name": "مسبّحون",
+  "description": "رفيقك اليومي للذكر والقرآن الكريم ومواقيت الصلاة والمسبحة الذكية والتقويم الهجري",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
